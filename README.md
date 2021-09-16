@@ -3,7 +3,7 @@
 <p>
   I am a Computer Science graduate from <a href="https://www.fiu.edu/">Florida International University</a>
   <br />
-  💻My favorite technologies:
+  <h2>💻My favorite technologies: </h2>
   <ul>
     <li>Typescript <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="20"></li>
     <li>React <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="20"></li>
