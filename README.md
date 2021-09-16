@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Computer Science graduate from ![Florida International University](https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/FIU_Panthers_logo.svg/175px-FIU_Panthers_logo.svg.png)
+I am a Computer Science graduate from [Florida International University](https://www.fiu.edu/)
+
+
+Interested in working together? Reach out to me at <Spatt030@FIU.edu>
