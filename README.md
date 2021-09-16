@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Steve Patterson
 
 <!--
 **Steve0128/Steve0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-**Steve Patterson**
+I am a Computer Science graduate from ![Florida International University](https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/FIU_Panthers_logo.svg/175px-FIU_Panthers_logo.svg.png)
