@@ -1,5 +1,4 @@
 <h3 align="center"> Hi, I'm Steve Patterson </h3>
----
 <!--
 **Steve0128/Steve0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
