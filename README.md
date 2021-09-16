@@ -2,6 +2,7 @@
 
 <p>
   I am a Computer Science graduate from <a href="https://www.fiu.edu/">Florida International University</a>
+  <br />
   My favorite technologies:
   <ul>
     <li>Typescript</li>
