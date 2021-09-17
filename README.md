@@ -11,6 +11,9 @@
     <li> MongoDB <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="20"></li>
   </ul>
   
+  <details>
+  <summary> Resume </summary>
+  </details>
 
   Interested in working together? Reach out to me at 📨<a href="mailto: Spatt030@FIU.edu"> Spatt030@FIU.edu</a>
 </p>
