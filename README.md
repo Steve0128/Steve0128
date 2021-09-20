@@ -14,6 +14,7 @@
     <summary> My development Environment </summary>
     <ul>
       <li> OS: Ubuntu <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="19"></a>
+      <li> Text Editor: Visual Studio Code <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="19"></a>
     </ul>
   </details>
   <details>
