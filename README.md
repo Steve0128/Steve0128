@@ -6,9 +6,9 @@
   <h3>💻My favorite technologies: </h3>
   <ul>
     <li>Typescript <a href="https://www.typescriptlang.org/"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="19"></a></li>
-    <li>React <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="19"></li>
-    <li>React Native <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="20"></li>
-    <li> MongoDB <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="20"></li>
+    <li>React <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="19"></a></li>
+    <li>React Native <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="19"></a></li>
+    <li> MongoDB <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="19"></a></li>
   </ul>
   <details>
     <summary> My development Environment </summary>
