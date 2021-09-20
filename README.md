@@ -15,6 +15,7 @@
     <ul>
       <li> OS: Ubuntu <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="19"></a>
     </ul>
+  </details>
   <details>
     <summary> Resume </summary>
   </details>
